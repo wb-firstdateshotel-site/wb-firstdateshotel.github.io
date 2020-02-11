@@ -6,11 +6,6 @@ body {
   font-size: 0.7rem;
 }  
 
-.sqs-layout > .sqs-row {
-  margin-left: 0;
-  margin-right: 0;
-}
-  
 .container-fluid {
   padding-right: 0px;
   padding-left: 0px;
