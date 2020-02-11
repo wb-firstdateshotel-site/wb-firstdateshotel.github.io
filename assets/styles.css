@@ -60,6 +60,10 @@ body {
   text-transform: uppercase;
 }
 
+#show-blurb p {
+  font-weight: 400;
+}
+
 #eme-solicit .solicit-title,
 #eme-solicit .solicit-description {
   display: none;
@@ -193,7 +197,7 @@ body {
 }
   
 #eme-solicit #partner-age-max-anchor label,
-#eme-solicit #partner-height-max-anchor label {
+#partner-height-max-anchor label {
     color: #fff;
 }
 
@@ -211,4 +215,4 @@ body {
   #eme-solicit .mb-4 {
     padding: 15px 17px 20px 17px;
   }  
-}
+} 
