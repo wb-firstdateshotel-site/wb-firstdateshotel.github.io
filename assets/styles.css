@@ -16,6 +16,12 @@ body {
   padding-left: 0px;
 }
 
+.embed-responsive .embed-responsive-item,
+.embed-responsive video {
+  top: -15% !important;
+  height: auto  !important;
+}
+  
 #show-blurb {
   padding-top: 30px;
 }
@@ -78,7 +84,7 @@ body {
 }
 
 #eme-solicit .text-muted {
-    color: #333 !important;
+  color: #333 !important;
 }
 
 @media only screen and (min-width : 768px) {
@@ -180,6 +186,9 @@ body {
   .lead {
     font-size: 1.1rem;
   }  
+  .form-control-file {
+  	width: 100%;
+  }
   #eme-solicit .mb-4 {
     padding: 15px 17px 20px 17px;
   }  
