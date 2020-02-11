@@ -16,11 +16,6 @@ body {
   border-radius: .25rem;
 }  
 
-.sqs-layout > .sqs-row {
-  margin-left: 0;
-  margin-right: 0;
-}
-  
 .container-fluid {
   padding-right: 0px;
   padding-left: 0px;
@@ -33,7 +28,7 @@ body {
 }
  
 #legal-blurb {
-  padding-top: 10px;
+  padding-top: 20px;
 }
 
 #legal-blurb h5 {
@@ -61,7 +56,7 @@ body {
 }
 
 #show-blurb p {
-  font-weight: 400;
+  font-weight: 500;
 }
 
 #eme-solicit .solicit-title,
