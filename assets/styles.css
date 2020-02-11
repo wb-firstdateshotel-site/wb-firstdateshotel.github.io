@@ -31,13 +31,21 @@ body {
   top: -15% !important;
   height: auto  !important;
 }
-  
-#show-blurb {
-  padding-top: 30px;
-}
-
+ 
 #legal-blurb {
   padding-top: 10px;
+}
+
+#legal-blurb h5 {
+  font-size: 1rem;
+}
+
+#legal-blurb p {
+  font-size: 0.9rem;
+}
+
+#show-blurb {
+  padding-top: 30px;
 }
 
 #show-blurb,
