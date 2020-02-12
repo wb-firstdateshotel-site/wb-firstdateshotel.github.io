@@ -107,11 +107,15 @@ body {
   color: #333 !important;
 }
 
-.alert.alert-success.solicit-sent {
-    padding: 25px 25px 50px !important;
+#eme-solicit .alert.alert-success.solicit-sent {
+    padding: 1rem !important;
     background-color: white;
     border: none;
     margin-bottom: 40px;
+}
+
+#eme-solicit .alert.alert-warning.solicit-warning {
+    padding: 1rem !important;
 }
 
 @media only screen and (min-width : 768px) {
