@@ -107,6 +107,13 @@ body {
   color: #333 !important;
 }
 
+.alert.alert-success.solicit-sent {
+    padding: 25px 25px 50px !important;
+    background-color: white;
+    border: none;
+    margin-bottom: 40px;
+}
+
 @media only screen and (min-width : 768px) {
  
   #eme-solicit #mobile-anchor {
