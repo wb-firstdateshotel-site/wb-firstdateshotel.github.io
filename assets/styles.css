@@ -21,10 +21,13 @@ body {
   padding-left: 0px;
 }
 
+#firstdateshotel-jumbotron .embed-responsive.embed-responsive-16by9 {
+    margin-bottom: -8%;
+}
+
 .embed-responsive .embed-responsive-item,
 .embed-responsive video {
   top: -15% !important;
-  height: auto  !important;
 }
  
 #legal-blurb {
